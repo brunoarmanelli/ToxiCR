@@ -7,3 +7,5 @@ pre-trained/*
 batch.slurm
 __pycache__/
 *.ipynb_checkpoints
+toxic/
+.env
